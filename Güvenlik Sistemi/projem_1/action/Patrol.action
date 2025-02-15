@@ -1,0 +1,9 @@
+# Goal
+float32 threshold
+---
+# Result
+bool success
+---
+# Feedback
+int32 sensor_value
+bool alarm_triggered
